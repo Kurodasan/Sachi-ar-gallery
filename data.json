@@ -1,18 +1,17 @@
 {
   "artist": {
-    "name": "Michael Gold",
-    "avatar": "/images/avatar.jpg",
-    "shortBio": "Generative Artist",
+    "name": "GinJoe",
+    "avatar": "/images/Yingsun.jpg",
+    "shortBio": "Developer of Project Icarus",
     "socials": [
-      { "icon": "FaHome", "url": "https://mike.gold" },
-      { "icon": "FaTwitter", "url": "https://twitter.com/michaelgold" },
-      { "icon": "FaGithub", "url": "https://github.com/michaelgold" },
-      { "icon": "FaLinkedin", "url": "https://linkedin.com/in/gold1" },
-      { "icon": "FaUniversity", "url": "https://sva.edu/faculty/michael-gold" }
+      { "icon": "FaHome", "url": "https://www.ginjoe-h.com/" },
+      { "icon": "FaTwitter", "url": "https://twitter.com/Kuroda_Vanitas" },
+      { "icon": "FaGithub", "url": "https://github.com/Kurodasan" },
+      { "icon": "FaLinkedin", "url": "https://linkedin.com/in/ginjoe" },
     ]
   },
   "project": {
-    "name": "AR Gallery Example"
+    "name": "Sachi Showcase"
   },
   "models": [
     {
