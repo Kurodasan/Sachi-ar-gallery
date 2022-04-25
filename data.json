@@ -14,43 +14,63 @@
   },
   "models": [
     {
-      "name": "Gold Cube",
-      "glbFile": "/assets/gold-cube.glb",
+      "name": "Base Model",
+      "glbFile": "/assets/Sachi_Showcase00.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "gold" },
-        { "trait_type": "material", "value": "metal" }
+        { "trait_type": "Layer", "value": "None" },
+        { "trait_type": "Beam", "value": "None" },
+        { "trait_type": "Color", "value": "None" },
+        { "trait_type": "Flash", "value": "None" }
       ]
     },
     {
-      "name": "Silver Cube",
-      "glbFile": "/assets/silver-cube.glb",
+      "name": "Base Shield",
+      "glbFile": "/assets/Sachi_Showcase01.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "silver" },
-        { "trait_type": "material", "value": "metal" }
+        { "trait_type": "Layer", "value": "Large" },
+        { "trait_type": "Beam", "value": "Triple" },
+        { "trait_type": "Color", "value": "Blue" },
+        { "trait_type": "Flash", "value": "None" }
       ]
     },
     {
-      "name": "Red Cube",
-      "glbFile": "/assets/red-cube.glb",
+      "name": "Yellow Shield",
+      "glbFile": "/assets/Sachi_Showcase02.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "red" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "Layer", "value": "Small" },
+        { "trait_type": "Beam", "value": "Triple" },
+        { "trait_type": "Color", "value": "Yellow" },
+        { "trait_type": "Flash", "value": "None" }
       ]
     },
     {
-      "name": "Green Cube",
-      "glbFile": "/assets/green-cube.glb",
+      "name": "Great Shield",
+      "glbFile": "/assets/Sachi_Showcase03.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "green" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "Layer", "value": "Large" },
+        { "trait_type": "Beam", "value": "Triple" },
+        { "trait_type": "Color", "value": "Textured" },
+        { "trait_type": "Flash", "value": "Fragment" }
+      ]
+    },
+    {
+      "name": "Grant Shield",
+      "glbFile": "/assets/Sachi_Showcase05.glb",
+      "attributes": [
+        { "trait_type": "Layer", "value": "Double" },
+        { "trait_type": "Beam", "value": "Fragment" },
+        { "trait_type": "Color", "value": "Textured" },
+        { "trait_type": "Flash", "value": "Fragment" }
+      ]
+    },
+    {
+      "name": "Final Shield",
+      "glbFile": "/assets/Sachi_Showcase06.glb",
+      "attributes": [
+        { "trait_type": "Layer", "value": "Double" },
+        { "trait_type": "Beam", "value": "LongFrag" },
+        { "trait_type": "Color", "value": "Textured" },
+        { "trait_type": "Flash", "value": "LargeFrag" }
       ]
     }
   ]
