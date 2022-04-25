@@ -16,6 +16,7 @@
     {
       "name": "Base Model",
       "glbFile": "/assets/Sachi_Showcase00.glb",
+      "usdzFile": "/assets/Sachi_Showcase00.usdz",
       "attributes": [
         { "trait_type": "Layer", "value": "None" },
         { "trait_type": "Beam", "value": "None" },
