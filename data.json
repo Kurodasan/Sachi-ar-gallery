@@ -55,7 +55,7 @@
     },
     {
       "name": "Grant Shield",
-      "glbFile": "/assets/Sachi_Showcase05.glb",
+      "glbFile": "/assets/Sachi_Showcase04.glb",
       "attributes": [
         { "trait_type": "Layer", "value": "Double" },
         { "trait_type": "Beam", "value": "Fragment" },
@@ -65,7 +65,7 @@
     },
     {
       "name": "Final Shield",
-      "glbFile": "/assets/Sachi_Showcase06.glb",
+      "glbFile": "/assets/Sachi_Showcase05.glb",
       "attributes": [
         { "trait_type": "Layer", "value": "Double" },
         { "trait_type": "Beam", "value": "LongFrag" },
