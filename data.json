@@ -14,6 +14,16 @@
   },
   "models": [
     {
+      "name": "Base Model",
+      "glbFile": "/assets/Sachi_Showcase00.glb",
+      "attributes": [
+        { "trait_type": "Layer", "value": "None" },
+        { "trait_type": "Beam", "value": "None" },
+        { "trait_type": "Color", "value": "None" },
+        { "trait_type": "Flash", "value": "None" }
+      ]
+    },
+    {
       "name": "Base Shield",
       "glbFile": "/assets/Sachi_Showcase01.glb",
       "attributes": [
@@ -45,12 +55,22 @@
     },
     {
       "name": "Grant Shield",
-      "glbFile": "/assets/Sachi_Showcase04.glb",
+      "glbFile": "/assets/Sachi_Showcase05.glb",
       "attributes": [
         { "trait_type": "Layer", "value": "Double" },
         { "trait_type": "Beam", "value": "Fragment" },
         { "trait_type": "Color", "value": "Textured" },
         { "trait_type": "Flash", "value": "Fragment" }
+      ]
+    },
+    {
+      "name": "Final Shield",
+      "glbFile": "/assets/Sachi_Showcase06.glb",
+      "attributes": [
+        { "trait_type": "Layer", "value": "Double" },
+        { "trait_type": "Beam", "value": "LongFrag" },
+        { "trait_type": "Color", "value": "Textured" },
+        { "trait_type": "Flash", "value": "LargeFrag" }
       ]
     }
   ]
