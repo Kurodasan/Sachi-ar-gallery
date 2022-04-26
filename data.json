@@ -16,7 +16,7 @@
     {
       "name": "Base Model",
       "glbFile": "/assets/Sachi_Showcase00.glb",
-      "usdzFile": "/assets/Sachi_Showcase00.usdz",
+      "usdzFile": "/assets/Sachi_Showcase00T.usdz",
       "attributes": [
         { "trait_type": "Layer", "value": "None" },
         { "trait_type": "Beam", "value": "None" },
@@ -27,6 +27,7 @@
     {
       "name": "Base Shield",
       "glbFile": "/assets/Sachi_Showcase01.glb",
+      "usdzFile": "/assets/Sachi_Showcase01T.usdz",
       "attributes": [
         { "trait_type": "Layer", "value": "Large" },
         { "trait_type": "Beam", "value": "Triple" },
@@ -37,6 +38,7 @@
     {
       "name": "Yellow Shield",
       "glbFile": "/assets/Sachi_Showcase02.glb",
+      "usdzFile": "/assets/Sachi_Showcase02T.usdz",
       "attributes": [
         { "trait_type": "Layer", "value": "Small" },
         { "trait_type": "Beam", "value": "Triple" },
@@ -47,6 +49,7 @@
     {
       "name": "Great Shield",
       "glbFile": "/assets/Sachi_Showcase03.glb",
+      "usdzFile": "/assets/Sachi_Showcase03T.usdz",
       "attributes": [
         { "trait_type": "Layer", "value": "Large" },
         { "trait_type": "Beam", "value": "Triple" },
@@ -57,6 +60,7 @@
     {
       "name": "Grant Shield",
       "glbFile": "/assets/Sachi_Showcase04.glb",
+      "usdzFile": "/assets/Sachi_Showcase04T.usdz",
       "attributes": [
         { "trait_type": "Layer", "value": "Double" },
         { "trait_type": "Beam", "value": "Fragment" },
@@ -67,6 +71,7 @@
     {
       "name": "Final Shield",
       "glbFile": "/assets/Sachi_Showcase05.glb",
+      "usdzFile": "/assets/Sachi_Showcase05T.usdz",
       "attributes": [
         { "trait_type": "Layer", "value": "Double" },
         { "trait_type": "Beam", "value": "LongFrag" },
